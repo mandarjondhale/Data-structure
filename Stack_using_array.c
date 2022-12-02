@@ -74,5 +74,3 @@ int DISPLAY()
 		printf("%d\n",stack[i]);
 	}
 }
-
-	
