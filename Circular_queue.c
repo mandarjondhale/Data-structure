@@ -1,4 +1,4 @@
-/*program to implement linear QUEUE using array.
+/*program to implement circular QUEUE using array.
 153_Mandar Jondhale
 01.12.2021*/
 
@@ -115,5 +115,3 @@ int DISPLAY()
 		}		
 	}	
 }
-			
-
